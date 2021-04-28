@@ -1,0 +1,2 @@
+# Global-Security-Analytics-Market---2019-2026
+In order to secure the network infrastructure and therefore the devices connected there to, security analytics is required. The security analytics market is gaining rapid importance as a result of increasing cyber vulnerabilities and threats. Detection, mitigation, and analysis of persistent threats and targeted attacks are administered through security analytics
